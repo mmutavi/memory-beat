@@ -1,0 +1,1 @@
+const pads=[...document.querySelectorAll('.pad')],$=s=>document.querySelector(s),BEST='memory.best.v2',tones=[392,494,587,784];let sequence=[],step=0,accept=false,active=false,round=0,playToken=0,audio=null;
